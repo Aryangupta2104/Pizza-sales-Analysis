@@ -18,3 +18,9 @@ profit and other trends.
   * **Power BI Desktop**
   * **Microsoft SQL Server** - for calculating KPIs and Trends and data import and store.
   * **DAX & Power Query for Data Transformation**
+## 📸Dashboard Screenshots
+
+![image alt ](https://github.com/Aryangupta2104/Pizza-sales-Analysis/blob/main/ScreenShots/Screenshot%202026-01-08%20194234.png?raw=true)
+
+
+![image alt ](https://github.com/Aryangupta2104/Pizza-sales-Analysis/blob/main/ScreenShots/Screenshot%202026-01-08%20170805.png?raw=true)
