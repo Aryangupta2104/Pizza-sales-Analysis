@@ -16,7 +16,7 @@ profit and other trends.
 * 📁**Screenshots** - Screenshots of the Dashboard
   ## 🛠️Tool Used
   * **Power BI Desktop**
-  * **Microsoft SQL Server** - for calculating KPIs and Trends and data import and store.
+  * **Microsoft SQL Server** - for calculating KPIs, Trends, data import and store the data.
   * **DAX & Power Query for Data Transformation**
 ## 📸Dashboard Screenshots
 
